@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:503bc0fe3a1814fad6d412e498c30718
+SUMMARY:Салон красоты &quot\;Эстетика&quot\; - 06 Апр 2023 08:30
+DTSTAMP;TZID=+03:00:20230406T083000
+DTSTART;TZID=+03:00:20230406T083000
+DTEND;TZID=+03:00:20230406T093000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Салон красоты &quot\;Эстетика&quot\; \n\nАдрес Сервиса: ул. Академика Павлова\, Харьков\, Украина \n\nSalon phone: 09767376497 \n\nSalon email: danya.nikitin7@gmail.com \n\nЗаявки услуг:\nСтрижка бороды: 08:30 ➝ 09:00 - Алина Гончаренко\nШампунь: 09:00 ➝ 09:30 - Алина Гончаренко\n\nПримечания к Заявке:\nПусто\n\nСтатус Заявки: Подтверждено
+LOCATION:ул. Академика Павлова\, Харьков\, Украина
+END:VEVENT
+END:VCALENDAR
