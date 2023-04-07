@@ -2607,8 +2607,8 @@ msgstr "Landnummer"
 #: files/DEV/src/SLB_Discount/Enum/DiscountType.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
-msgstr "Coupon code"
+msgid "Введите код купона"
+msgstr "Введите код купона"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/src/SLB_Discount/Wrapper/Discount.php:417
@@ -5329,7 +5329,7 @@ msgstr "sleutel in het gewenste bedrag"
 #: files/DEV/views/discount/shortcode/_salon_summary_after_total_amount.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/discount/shortcode/_salon_summary_after_total_amount.php:27
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr "voer uw kortingscode in"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -6996,7 +6996,7 @@ msgstr "Voorzie a.u.b. in al de gevraagde kolommen"
 #: files/DEV/views/shortcode/salon_summary.php:60
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/shortcode/salon_summary.php:60
-msgid "please review and confirm the details of your booking:"
+msgid "Пожалуйста, просмотрите и подтвердите детали вашего бронирования:"
 msgstr "Gelieve details booking na te willen zien en te bevestigen:"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -10025,8 +10025,8 @@ msgstr "Uw keuze van medewerker is niet mogelijk voor deze behandeling"
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API/Controller/Discounts_Controller.php:431
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API_Mobile/Controller/Discounts_Controller.php:431
-msgid "The coupon code for the resource."
-msgstr "Coupon code voor bron/bestand."
+msgid "TheВведите код купона for the resource."
+msgstr "Введите код купона voor bron/bestand."
 
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/src/SLB_API/Controller/Bookings_Controller.php:1267

@@ -84,9 +84,9 @@
             <div class="col-xs-12"><hr></div>
         </div>
         <?php do_action('sln.template.summary.before_total_amount', $bb, $size); ?>
-	<?php if ($isTipRequestEnabled): ?>
-	    <?php include '_salon_summary_show_tips.php'; ?>
-	<?php endif; ?>
+  <?php if ($isTipRequestEnabled): ?>
+      <?php include '_salon_summary_show_tips.php'; ?>
+  <?php endif; ?>
     <?php if($settings->get('enable_booking_tax_calculation')){
         include '_salon_summary_show_tax.php';
     } ?>
@@ -102,7 +102,7 @@
     </div>
     <?php do_action('sln.template.summary.after_total_amount', $bb, $size); ?>
     <?php if ($isTipRequestEnabled): ?>
-	<?php include '_salon_summary_add_tips.php'; ?>
+  <?php include '_salon_summary_add_tips.php'; ?>
     <?php endif; ?>
     <div class="col-xs-12 sln-input sln-input--simple sln-summary__message">
         <?php
@@ -124,7 +124,7 @@
     </div>
     <?php do_action('sln.template.summary.before_terms', $bb, $size); ?>
     <div class="col-xs-12  sln-summary__terms">
-        <p><strong><?php _e('Terms & Conditions','salon-booking-system')?></strong><br><?php echo $plugin->getSettings()->get('gen_timetable')
+        <p><strong><?php _e('Условия и положения','salon-booking-system')?></strong><br><?php echo $plugin->getSettings()->get('gen_timetable')
             /*_e(
                 'In case of delay of arrival. we will wait a maximum of 10 minutes from booking time. Then we will release your reservation',
                 'salon-booking-system'

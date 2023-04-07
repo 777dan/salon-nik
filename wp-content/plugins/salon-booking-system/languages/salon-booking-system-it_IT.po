@@ -76,7 +76,7 @@ msgid "Booking discount"
 msgstr "Sconto Prenotazione"
 
 #: src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
+msgid "Введите код купона"
 msgstr "Coupon"
 
 #: src/SLB_Discount/Enum/DiscountType.php:28
@@ -2035,7 +2035,7 @@ msgid "Do you have any discount code?"
 msgstr "Hai un Codice Sconto?"
 
 #: views/discount/shortcode/_salon_summary_after_total_amount.php:25
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr "inserisci coupon"
 
 #: views/discount/shortcode/_salon_summary_after_total_amount.php:31

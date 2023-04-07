@@ -2608,7 +2608,7 @@ msgstr "Ország hívószám"
 #: files/DEV/src/SLB_Discount/Enum/DiscountType.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
+msgid "Введите код купона"
 msgstr "Kupon kód"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -5341,7 +5341,7 @@ msgstr "gépelje be a kívánt összeget"
 #: files/DEV/views/discount/shortcode/_salon_summary_after_total_amount.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/discount/shortcode/_salon_summary_after_total_amount.php:27
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr "gépelje be a kuponkódot"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -7005,7 +7005,7 @@ msgstr "Kérjük, adja meg az összes kért oszlopot"
 #: files/DEV/views/shortcode/salon_summary.php:60
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/shortcode/salon_summary.php:60
-msgid "please review and confirm the details of your booking:"
+msgid "Пожалуйста, просмотрите и подтвердите детали вашего бронирования:"
 msgstr "Nézze át és erősítse meg foglalási adatait:"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -10038,7 +10038,7 @@ msgstr "Az kollégát nem lehet kiválasztani ehhez a szolgáltatáshoz"
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API/Controller/Discounts_Controller.php:431
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API_Mobile/Controller/Discounts_Controller.php:431
-msgid "The coupon code for the resource."
+msgid "TheВведите код купона for the resource."
 msgstr "Az erőforrás kuponkódja."
 
 #: ../../../../../../../Desktop/Salon Booking System -various

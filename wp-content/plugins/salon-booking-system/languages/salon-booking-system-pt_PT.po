@@ -2606,7 +2606,7 @@ msgstr "Código do país"
 #: files/DEV/src/SLB_Discount/Enum/DiscountType.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
+msgid "Введите код купона"
 msgstr "código do cupom"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -5334,7 +5334,7 @@ msgstr "chave na quantidade desejada"
 #: files/DEV/views/discount/shortcode/_salon_summary_after_total_amount.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/discount/shortcode/_salon_summary_after_total_amount.php:27
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr "chave no seu código cupão"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -7005,7 +7005,7 @@ msgstr "Por favor forneça todas as colunas solicitadas"
 #: files/DEV/views/shortcode/salon_summary.php:60
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/shortcode/salon_summary.php:60
-msgid "please review and confirm the details of your booking:"
+msgid "Пожалуйста, просмотрите и подтвердите детали вашего бронирования:"
 msgstr "por favor reveja e confirme os detalhes da sua reserva:"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -10040,7 +10040,7 @@ msgstr "O assistente não executa este serviço"
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API/Controller/Discounts_Controller.php:431
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API_Mobile/Controller/Discounts_Controller.php:431
-msgid "The coupon code for the resource."
+msgid "TheВведите код купона for the resource."
 msgstr "código de copão para recurso"
 
 #: ../../../../../../../Desktop/Salon Booking System -various

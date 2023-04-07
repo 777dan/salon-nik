@@ -2561,7 +2561,7 @@ msgstr ""
 #: files/DEV/src/SLB_Discount/Enum/DiscountType.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
+msgid "Введите код купона"
 msgstr ""
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -5202,7 +5202,7 @@ msgstr ""
 #: files/DEV/views/discount/shortcode/_salon_summary_after_total_amount.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/discount/shortcode/_salon_summary_after_total_amount.php:27
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr ""
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -6849,7 +6849,7 @@ msgstr ""
 #: files/DEV/views/shortcode/salon_summary.php:60
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/shortcode/salon_summary.php:60
-msgid "please review and confirm the details of your booking:"
+msgid "Пожалуйста, просмотрите и подтвердите детали вашего бронирования:"
 msgstr ""
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -9831,7 +9831,7 @@ msgstr ""
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API/Controller/Discounts_Controller.php:431
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API_Mobile/Controller/Discounts_Controller.php:431
-msgid "The coupon code for the resource."
+msgid "TheВведите код купона for the resource."
 msgstr ""
 
 #: ../../../../../../../Desktop/Salon Booking System -various

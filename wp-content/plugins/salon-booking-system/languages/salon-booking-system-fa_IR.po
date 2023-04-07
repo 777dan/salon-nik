@@ -2606,7 +2606,7 @@ msgstr "کد کشور"
 #: files/DEV/src/SLB_Discount/Enum/DiscountType.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_Discount/Enum/DiscountType.php:27
-msgid "Coupon code"
+msgid "Введите код купона"
 msgstr "کد کوپن"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -5328,7 +5328,7 @@ msgstr " مقدار دلخواه خود را وارد کنید "
 #: files/DEV/views/discount/shortcode/_salon_summary_after_total_amount.php:27
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/discount/shortcode/_salon_summary_after_total_amount.php:27
-msgid "key in your coupon code"
+msgid "Введите код купона"
 msgstr "کد کوپن خود را وارد کنید"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -6990,7 +6990,7 @@ msgstr "لطفا تمام ستون های درخواستی را ارائه ده�
 #: files/DEV/views/shortcode/salon_summary.php:60
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/views/shortcode/salon_summary.php:60
-msgid "please review and confirm the details of your booking:"
+msgid "Пожалуйста, просмотрите и подтвердите детали вашего бронирования:"
 msgstr "لطفاً جزئیات رزرو خود را بررسی و تأیید کنید:"
 
 #: ../../../../../../../Desktop/Salon Booking System -various
@@ -10011,7 +10011,7 @@ msgstr "انتخاب دستیار برای این سرویس ارائه نشده
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API/Controller/Discounts_Controller.php:431
 #: ../../../../../../../Desktop/Salon Booking System -various
 #: files/DEV/build/tmp/svn/trunk/src/SLB_API_Mobile/Controller/Discounts_Controller.php:431
-msgid "The coupon code for the resource."
+msgid "TheВведите код купона for the resource."
 msgstr "کد کوپن برای منبع."
 
 #: ../../../../../../../Desktop/Salon Booking System -various

@@ -24,7 +24,7 @@ class SLB_Discount_Enum_DiscountType
 	public static function init()
 	{
 		self::$labels = array(
-			self::DISCOUNT_CODE => __('Coupon code', 'salon-booking-system'),
+			self::DISCOUNT_CODE => __('Введите код купона', 'salon-booking-system'),
 			self::DISCOUNT_AUTO => __('Automatic discount', 'salon-booking-system'),
 		);
 	}

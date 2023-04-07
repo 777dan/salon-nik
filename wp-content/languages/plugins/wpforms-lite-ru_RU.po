@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-03-27 16:32:33+0000\n"
+"PO-Revision-Date: 2023-04-05 13:34:33+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -223,7 +223,7 @@ msgstr "Избранные шаблоны"
 
 #: src/Admin/Builder/Traits/ContentInput.php:355
 msgid "Update Preview"
-msgstr "Обзор обновления"
+msgstr "Применить изменения"
 
 #: src/Admin/Builder/Traits/ContentInput.php:354
 msgid "Collapse Editor"
@@ -235,7 +235,7 @@ msgstr "Развернуть редактор"
 
 #: src/Admin/Builder/Traits/ContentInput.php:352
 msgid "<h4>Add Text and Images to Your Form With Ease</h4> <p>To get started, replace this text with your own.</p>"
-msgstr "<h4>Добавляйте в формы текст и изображения </h4> <p>Чтобы начать, замените этот текст на собственный.</p>"
+msgstr "<h4>Добавляйте в формы текст и изображения </h4> <p>Чтобы начать, замените этот текст своим.</p>"
 
 #: src/Admin/Builder/Traits/ContentInput.php:310
 #: src/Integrations/Gutenberg/FormSelector.php:344
@@ -248,7 +248,7 @@ msgstr "Предпросмотр"
 
 #: src/Admin/Builder/Traits/ContentInput.php:302
 msgid "Add Media"
-msgstr "Добавить мультимедиа"
+msgstr "Добавить файлы"
 
 #: src/Admin/Builder/Traits/ContentInput.php:163
 msgid "Uploaded to this form"
@@ -434,7 +434,7 @@ msgstr "После покупки лицензии <strong>введите лиц
 #. translators: %1$s - Fixing email delivery issues doc URL.
 #: src/Integrations/SMTP/Notifications.php:179
 msgid "Please check out our <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">doc on fixing email delivery issues</a> for more details."
-msgstr "Для получения более подробной информации ознакомьтесь с нашим <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">руководством по исправлению ошибок с рассылкой</a>."
+msgstr "Для получения более подробной информации ознакомьтесь с нашим <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">руководством по исправлению ошибок с рассылками</a>."
 
 #. translators: %1$s - WordPress site domain.
 #: src/Integrations/SMTP/Notifications.php:173
@@ -444,12 +444,12 @@ msgstr "Также можно изменить адрес отправителя
 #. translators: %1$s - WP Mail SMTP install page URL.
 #: src/Integrations/SMTP/Notifications.php:158
 msgid "We strongly recommend that you install the free <a href=\"%1$s\" target=\"_blank\">WP Mail SMTP</a> plugin! The Setup Wizard makes it easy to fix your emails."
-msgstr "Рекомендуем установить бесплатный плагин<a href=\"%1$s\" target=\"_blank\">WP Mail SMTP</a>! Мастер установки поможет избежать проблем с рассылкой."
+msgstr "Рекомендуем установить бесплатный плагин <a href=\"%1$s\" target=\"_blank\">WP Mail SMTP</a>! Мастер установки поможет избежать проблем с рассылкой."
 
 #. translators: %1$s - WordPress site domain.
 #: src/Integrations/SMTP/Notifications.php:152
 msgid "The current 'From Email' address does not match your website domain name (%1$s). This can cause your notification emails to be blocked or marked as spam."
-msgstr "Текущий адрес отправителя не совпадает с доменом вашего сайта (%1$s). Из-за этого ваши письма могут блокироваться и попадать спам."
+msgstr "Текущий адрес отправителя не совпадает с доменом вашего сайта (%1$s). Из-за этого ваши письма могут блокироваться и попадать в спам."
 
 #: src/Forms/Akismet.php:184
 msgid "Anti-spam verification failed, please try again later."
@@ -510,7 +510,7 @@ msgstr "Добавить зону расширенного содержимог�
 
 #: includes/fields/class-internal-information.php:231
 msgid "Enter text for the form field expanded description."
-msgstr "Введите текст расширенного описания для поля формы."
+msgstr "Введите текст расширенного описания для поля."
 
 #: includes/fields/class-internal-information.php:230
 msgid "Expanded Content"
@@ -518,7 +518,7 @@ msgstr "Расширенное содержимое"
 
 #: includes/fields/class-internal-information.php:191
 msgid "Enter text for the form field heading."
-msgstr "Введите текст заголовка для поля формы."
+msgstr "Введите текст заголовка поля."
 
 #: includes/fields/class-internal-information.php:190
 msgid "Heading"
@@ -604,7 +604,7 @@ msgstr "Для управления записями в WordPress <a href=\"%s\"
 #. translators: %s - WPForms.com Documentation page URL.
 #: templates/emails/summary-body.php:71
 msgid "Backups are completely free, 100%% secure, and you can turn them on in a few clicks! <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Enable entry backups now.</a>"
-msgstr "Резервное копирование — это бесплатно и на 100%% безопасно. Настройте эту функцию в несколько кликов. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Включить резервное копирование.</a>"
+msgstr "Резервное копирование — это бесплатно и на 100%% безопасно. Настройте эту функцию в несколько нажатий! <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Включить резервное копирование.</a>"
 
 #: templates/emails/summary-body.php:65
 msgid "We recommend that you enable entry backups to guard against lost entries."
@@ -2849,7 +2849,7 @@ msgstr "Можно добавлять только уникальные знач
 
 #: includes/fields/class-select.php:291
 msgid "Classic style is the default one generated by your browser. Modern has a fresh look and displays all selected options in a single row."
-msgstr "Классический стиль - это стиль по умолчанию, созданный вашим браузером. Модерн - имеет свежий вид и отображает все выбранные параметры в одной строке."
+msgstr "Классический стиль — это стиль по умолчанию, созданный вашим браузером. «Модерн» имеет свежий вид и показывает все выбранные параметры в одной строке."
 
 #: includes/fields/class-select.php:290
 msgid "Style"
@@ -3915,7 +3915,7 @@ msgstr "Добавить: %s"
 
 #: includes/providers/class-base.php:896
 msgid "Available Form Fields"
-msgstr "Доступные поля формы"
+msgstr "Доступные поля"
 
 #: includes/providers/class-base.php:891 includes/providers/class-base.php:896
 msgid "List Fields"
@@ -4508,7 +4508,7 @@ msgstr "Читать документацию"
 
 #: includes/admin/class-about.php:635
 msgid "Are you wondering which form fields you have access to in WPForms and what each field does? WPForms has lots of field types to make creating and filling out forms easy. In this tutorial, we’ll cover all of the fields available in WPForms."
-msgstr "Вам интересно, к каким полям формы у вас есть доступ в WPForms и что делает каждое поле? В WPForms много типов полей, чтобы упростить создание и заполнение форм. В этом руководстве мы рассмотрим все поля, доступные в WPForms."
+msgstr "Вам интересно, к каким полям у вас есть доступ в WPForms и что делает каждое поле? В WPForms много типов полей, чтобы упростить создание и заполнение форм. В этом руководстве мы рассмотрим все поля, доступные в WPForms."
 
 #: includes/admin/class-about.php:631
 msgid "How to Choose the Right Form Field"
@@ -4529,7 +4529,7 @@ msgstr "Вам наверняка понравится WPForms, ведь у пл
 
 #: includes/admin/class-about.php:512
 msgid "Thanks for being a loyal WPForms Lite user. <strong>Upgrade to WPForms Pro</strong> to unlock all the awesome features and experience<br>why WPForms is consistently rated the best WordPress form builder."
-msgstr "Благодарим вас за использование WPForms Lite.<strong>Оформив подписку WPForms Pro</strong>, вы получите доступ к уникальным возможностям<br> и поймете, почему WPForms считается лучшим конструктором форм в WordPress."
+msgstr "Благодарим вас за использование WPForms Lite.<strong>Оформив подписку WPForms Pro</strong>, вы получите доступ к уникальным возможностям и поймете, почему WPForms считается лучшим конструктором форм в WordPress."
 
 #: includes/admin/class-about.php:488
 msgid "How to Display Forms on Your Site"
@@ -5028,7 +5028,7 @@ msgstr "(копия)"
 
 #: includes/admin/builder/class-builder.php:605
 msgid "Are you sure you want to duplicate this field?"
-msgstr "Вы уверено, что хотите создать дубликат этого поля?"
+msgstr "Дублировать это поле?"
 
 #: includes/admin/builder/class-builder.php:603
 msgid "Are you sure you want to delete this field?"
@@ -5530,7 +5530,7 @@ msgstr "Отправка"
 #: src/Admin/Tools/Importers/NinjaForms.php:162
 #: src/Admin/Tools/Importers/PirateForms.php:434
 msgid "No form fields found."
-msgstr "Поля формы не найдены."
+msgstr "Поля не найдены."
 
 #: src/Admin/Tools/Importers/NinjaForms.php:239
 #: src/Admin/Tools/Importers/PirateForms.php:250
@@ -7593,7 +7593,7 @@ msgstr "Показать макеты"
 
 #: includes/fields/class-base.php:1785
 msgid "Enter CSS class names for the form field container. Class names should be separated with spaces."
-msgstr "Введите имена классов CSS для контейнера поля формы. Имена классов должны быть разделены пробелами."
+msgstr "Введите имена классов CSS для контейнера поля. Имена классов должны быть разделены пробелами."
 
 #: includes/fields/class-base.php:1751
 msgid "Placeholder Text"
@@ -7640,7 +7640,7 @@ msgstr "Показать смарт-теги"
 
 #: includes/fields/class-base.php:1637
 msgid "Enter text for the default form field value."
-msgstr "Введите текст для значения поля формы по умолчанию."
+msgstr "Введите текст для значения поля по умолчанию."
 
 #: includes/fields/class-base.php:1453 includes/fields/class-base.php:1610
 #: includes/fields/class-email.php:378 src/Admin/Settings/Captcha/Page.php:158
@@ -7663,7 +7663,7 @@ msgstr "Выберите стиль для вариантов в виде изо
 
 #: includes/fields/class-base.php:1437
 msgid "Image Choice Style"
-msgstr "Стиль картинки варианта выбора"
+msgstr "Стиль изображения для варианта выбора"
 
 #: includes/fields/class-base.php:1409
 msgid "Check this option to enable using images with the choices."
@@ -7671,11 +7671,11 @@ msgstr "Установите этот флажок для включения в�
 
 #: includes/fields/class-base.php:1408
 msgid "Use image choices"
-msgstr "Использовать изображение в виде ответа"
+msgstr "Использовать для ответов изображения"
 
 #: includes/fields/class-base.php:1393
 msgid "<h4>Images are not cropped or resized.</h4><p>For best results, they should be the same size and 250x250 pixels or smaller.</p>"
-msgstr "<h4>Картинки не обрезаются и не изменяют свой размер.</h4><p>Для лучшего результата они все должны быть одинакового размера и 250x250 пикселей или меньше.</p>"
+msgstr "<h4>Изображения не обрезаются, их размер не меняется.</h4><p>Для оптимального результата они все должны быть одинакового размера: 250x250 пикселей или меньше.</p>"
 
 #: includes/fields/class-base.php:1284
 msgid "Items"
@@ -7718,7 +7718,7 @@ msgstr "Код"
 
 #: includes/fields/class-base.php:1046
 msgid "Enter code for the form field."
-msgstr "Введите код для поля формы."
+msgstr "Введите код для поля."
 
 #: includes/admin/class-settings.php:409 includes/fields/class-base.php:999
 msgid "Required"
@@ -7726,7 +7726,7 @@ msgstr "Обязательное поле"
 
 #: includes/fields/class-base.php:991
 msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
-msgstr "Установите этот флажок, чтобы пометить поле в качестве обязательного. Форма не будет отправлена, если все необходимые поля не заполнены."
+msgstr "Установите этот флажок, чтобы пометить поле как обязательное. Форма не будет отправлена, пока не заполнены все обязательные поля."
 
 #: includes/fields/class-base.php:958
 msgid "Description"
@@ -7734,7 +7734,7 @@ msgstr "Описание"
 
 #: includes/fields/class-base.php:951
 msgid "Enter text for the form field description."
-msgstr "Введите текст для описания поля формы."
+msgstr "Введите текст описания поля."
 
 #: includes/fields/class-base.php:919
 #: src/Integrations/Gutenberg/FormSelector.php:347

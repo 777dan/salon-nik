@@ -167,7 +167,7 @@ https://www.youtube.com/watch?v=MGW0hSZrV5c
 
 **Advanced Discount System**
 
-* Create unlimited coupon codes
+* Create unlimitedВведите код купонаs
 * Create unlimited discounts based on multiple criteria
 
 [read more..](https://www.salonbookingsystem.com/advanced-discount-system-for-salon-booking-plugin/)
